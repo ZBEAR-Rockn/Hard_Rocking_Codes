@@ -20,7 +20,7 @@
 - 👀 Studying and applying CG graphics for the better Hard Rocking out
 - 🌱 python - bpy simple scripting, Add-on development, CG works for Hard Rocking out using Blender
 - 👋 ZBEAR, Hard Rock Guitarist, Album Unfinished Fight 1, 2
-- 📫 zorzybear@gmail.com, www.zbear.co.kr
+- 📫 zorzybear@gmail.com, www.zbear-hardrock.com
 
 
 🌱 More Details about this add-on: 
@@ -98,7 +98,7 @@ When certain vertexes do not respond to the addon's operation or pop out :
 🌱🌱 If this works was helpful for you, Please Subscribe ZBEAR's YouTube Channel !!: 
 🌱🌱 https://www.youtube.com/channel/UCQF5-PbA0kEV1BLT_pg0KyQ
 - 
-- www.zbear.co.kr
+- www.zbear-hardrock.com
 
 
 
